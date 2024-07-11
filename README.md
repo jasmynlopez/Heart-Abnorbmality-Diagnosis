@@ -16,7 +16,7 @@ A number of image analysis and machine learning methods have been developed to a
     <img width="778" alt="MethodsFlowChart" src="https://github.com/jasmynlopez/Heart-Abnorbmality-Diagnosis/assets/141966948/a135fb9f-0901-4ed7-ad24-ad5db728adfb">
 </div>
 <div align="center">
-    <em>Figure 1: Methods Flow Chart</em
+    <em><strong>Figure 1:</strong> Methods Flow Chart</em
 </div>
 
 
@@ -26,7 +26,7 @@ A number of image analysis and machine learning methods have been developed to a
 </div>
 
 <div align="center">
-    <em>Figure 2:  Infected Cell Counts by Category (left) and Total (right) 
+    <em><strong>Figure 2:</strong>  Infected Cell Counts by Category (left) and Total (right) 
 	    Blue indicates the calculated number of infected cells based on our pipeline. Red indicates the true number of infected cells based on the annotated data. Purple indicates the overlap between the two regions (successful identification of infected cells/stages).</em
 </div>
 
