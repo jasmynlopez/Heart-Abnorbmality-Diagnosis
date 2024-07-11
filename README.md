@@ -19,7 +19,6 @@ A number of image analysis and machine learning methods have been developed to a
     <em>Figure 1: Methods Flow Chart</em
 </div>
 
-    >
 
 ## Results: 
 <div align="center">
