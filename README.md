@@ -15,9 +15,9 @@ A number of image analysis and machine learning methods have been developed to a
 <div align="center">
 	<img width="778" alt="MethodsFlowChart" src="https://github.com/jasmynlopez/Heart-Abnorbmality-Diagnosis/assets/141966948/a135fb9f-0901-4ed7-ad24-ad5db728adfb"> 
 </div>
-<p align="center">
+<div align="center">
 _Figure 1: Methods Flow Chart_
-</p>
+</div>
 
 ## Results: 
 <div align="center">
