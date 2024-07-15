@@ -88,7 +88,7 @@ def main():
     train_accuracy = compute_accuracy(df_train[1], train_prediction) # Accuracy Train
 
 
-    df_test = load("netflix-test.csv", False) # Load test
+    df_test = load("heart-test.csv", False) # Load test
     test_prediction = predict(theta, df_test[0]) # Prediction Test
     compute_accuracy(df_test[1], test_prediction)
     test_accuracy = compute_accuracy(df_test[1], test_prediction) # Accuracy Test
